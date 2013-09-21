@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=BattleBoard(int,\ int)
+comment0.text=\r\n\ \ The\ constructor\ creates\ the\ board\ and\ sets\ all\ coord\ inates\ to\ BLANK.\r\n\ \r\n
+comment1.params=x\ y\ direction\ ship
+comment1.target=boolean\ placeShip(int,\ int,\ int,\ int)
+comment1.text=\r\n\ \ Method\ placeShip\ places\ the\ ship\ at\ specified\ coordinate.\r\n\ \ @param\ x,\ y,\ direction,\ ship\r\n\ \ @return\ true/false\r\n
+comment2.params=x\ y
+comment2.target=int\ shootShip(int,\ int)
+comment2.text=\r\n\ \ Method\ shootShip\ is\ used\ to\ take\ a\ shot\ at\ the\ ship.\ A\ message\ is\ then\ displayed\ whether\ the\ shot\ was\ a\ \r\n\ \ hit,\ miss,\ already\ taken,\ or\ out\ of\ the\ board\ range.\r\n\ \ \r\n\ \ @param\ x,y\r\n\ \ @return\ board[y][x];\r\n
+comment3.params=
+comment3.target=boolean\ hasShipBeenSunk()
+comment3.text=\r\n\ \ Method\ shootShip\ is\ used\ to\ take\ a\ shot\ at\ the\ ship.\ A\ message\ is\ then\ displayed\ whether\ the\ shot\ was\ a\ \r\n\ \ hit,\ miss,\ already\ taken,\ or\ out\ of\ the\ board\ range.\r\n\ \ \r\n\ \ @param\ none\r\n\ \ @return\ true/false\r\n
+comment4.params=
+comment4.target=int\ getWidth()
+comment4.text=\r\n\ \ \r\n\ \ \r\n\ \ @param\ none\r\n\ \ @return\ none\r\n
+comment5.params=
+comment5.target=int\ getHeight()
+comment5.text=\r\n\ \ \r\n\ \ \r\n\ \ @param\ none\r\n\ \ @return\ none\r\n
+numComments=6

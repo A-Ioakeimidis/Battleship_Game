@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Battleship()
+comment1.params=
+comment1.target=void\ playGame()
+comment1.text=\r\n\ \ Method\ playGame\ initializes\ the\ game\ status,\ number\ of\ shots\ and\ ship\ size,\ then\ goes\ through\ a\ switch\ statment\ using\ the\ shoot\ method\ to\ determine\ the\ output\r\n\ \r\n\ \ \r\n\ \ @param\ none\r\n\ \ @return\ the\ output\ from\ the\ switch\ statement\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ The\ main\ method\ that\ will\ be\ used\ to\ run\ the\ game\r\n
+numComments=3

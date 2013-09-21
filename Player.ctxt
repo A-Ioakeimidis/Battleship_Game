@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=board
+comment1.target=int\ shoot(BattleBoard)
+comment1.text=\r\n\ \ Method\ shoot\ takes\ the\ input\ of\ the\ user\ and\ places\ the\ shot\ on\ the\ board\r\n\ \ \r\n\ \ @param\ board\r\n\ \ @return\ result\ of\ the\ users\ input\ and\ whether\ it\ was\ miss\ or\ hit\r\n
+comment2.params=coordinate
+comment2.target=int\ receiveCoordinate(java.lang.String)
+numComments=3

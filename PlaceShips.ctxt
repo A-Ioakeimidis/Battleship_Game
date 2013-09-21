@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlaceShips()
+comment1.params=board\ shipSize
+comment1.target=boolean\ placeShip(BattleBoard,\ int)
+comment1.text=\r\n\ \ Method\ placeShip\ uses\ the\ Math.random()\ method\ to\ place\ the\ ship\ randomly\ either\ vertically\ or\ horizontally\r\n\ \ \r\n\ \ @param\ board,\ shipsize\r\n\ \ @return\ direction,\ shipSize);\r\n
+numComments=2
